@@ -1,0 +1,5 @@
+# Core dependencies for the Gemini ADK agent project
+adk==0.3.2
+google-generativeai==0.7.1
+python-dotenv==1.0.1
+requests==2.32.3

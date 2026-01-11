@@ -92,5 +92,6 @@ my-adk-agent/
 ├── requirements.txt
 ├── README.md
 
-<img width="1365" height="721" alt="image" src="https://github.com/user-attachments/assets/6c8c0bd2-c0c3-47be-87c3-64f899242804" />
+<img width="1097" height="474" alt="image" src="https://github.com/user-attachments/assets/ee7dca14-fd8e-409b-bc10-856a4028c1fa" />
+
 
